@@ -1,7 +1,7 @@
 import React from 'react';
 import Tesseract from 'tesseract.js';
 
-// import './style.css';
+
 
 const App = () => {
   const [isLoading, setIsLoading] = React.useState(false);
